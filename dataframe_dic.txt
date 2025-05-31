@@ -25,7 +25,9 @@ Tendencias de Ventas en el Tiempo: Como ha sido la tendencia de ingresos mensual
 
 Análisis de Productos: 
 Cuales son los 10 productos mas vendidos? ( suma de cantidad = unidades de ventas)
-Que productos generan mas ingresos? (suma de precio toral)
+Que productos generan mas ingresos? (suma de precio total)
+cuales son los productos que mas devuelven?
+
 
 Comportamiento de los Cliente:
 Quienes son los 20 clientes que mas compran en términos de ingreso

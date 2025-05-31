@@ -1,0 +1,43 @@
+"""
+Diccionario de datos del DataFrame:
+
+- InvoiceNo: Número de Factura. Valor nominal, entero de 6 dígitos asignado de forma única a cada transacción. Si comienza con la letra «C», indica una cancelación.
+- StockCode: Código de producto (artículo). Valor nominal, entero de 5 dígitos asignado de forma única a cada producto.
+- Description: Nombre del producto (artículo). Valor nominal.
+- Quantity: Cantidad de cada producto (artículo) por transacción. Valor numérico. Los valores negativos son devoluciones 
+- InvoiceDate: Fecha y hora de la factura. Valor numérico que representa el día y la hora de generación de cada transacción. Trasnformar a Fecha
+- UnitPrice: Precio unitario del producto por unidad en libras esterlinas. Valor numérico. Para los valores de 0, se consideran como productos agregados al carrito pero que no se a hecho checkout 
+- CustomerId: Número de cliente. Valor nominal, entero de 5 dígitos asignado exclusivamente a cada cliente. Transformar a entero
+- Country: Nombre del país donde reside cada cliente. Valor nominal.
+"""
+
+
+
+
+
+Análisis de los Datos - Diseño Analítico 
+Visión general  de ventas totales: 
+Cual es el ingreso total generado por el negocio?
+Tener una columna de ventas totales por transacción (total_inv)
+Sumar los datos de esa nueva columna (suma de total invoice)
+
+Tendencias de Ventas en el Tiempo: Como ha sido la tendencia de ingresos mensuales? y por año (Sumar los datos totales por año (ventas por año))
+
+Análisis de Productos: 
+Cuales son los 10 productos mas vendidos? ( suma de cantidad = unidades de ventas)
+Que productos generan mas ingresos? (suma de precio toral)
+
+Comportamiento de los Cliente:
+Quienes son los 20 clientes que mas compran en términos de ingreso
+Cual es la compra media por cliente 
+Cantidad de pedidos canceladas por cliente 
+
+Análisis de Pedidos 
+Cuantos pedidos totales se han realizado
+Cual es el valor promedio por pedido
+Monto total de pedidos cancelados vs Ventas realizadas 
+
+Análisis por país: Cual es el rendimiento de cada país en términos de ventas? (Sumatoria de ventas por país)
+
+Análisis de ventas por país por cliente: Cuales son las 100 mayores ventas agrupadas por país y por cliente
+Analizar las ventas del país con mayores ventas por cliente

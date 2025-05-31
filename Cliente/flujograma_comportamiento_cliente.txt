@@ -1,0 +1,18 @@
+### Este documento Acuerda el metodo de estandarizacion de la lista de clientes del dataset y configura el flujograma de trabajo.
+Nomenclatura de status: Not started, In progress, Done.
+Colocar al final las iniciales del colaborador trabajando en ella.
+
+Las tareas para esta estandarizacion se dividen en:
+0. Estandarizacion de los datatypes en las columnas 'CustomerID' y 'InvoiceDate' (Not started)
+1. Determinar los de datos faltantes en la columna 'CustomerID'(Not started)
+2. Crear dataframe incluyendo solo los datos con la columna 'CustomerID' en blanco (Not started)
+3. Segmentar el dataframe por paises (38) (Not started)
+4. Encontrar los valores nulos en la columna 'CustomerID' (Not started)
+5. Agrupar los valores de acuerdo con la columna 'Description' (Not started)
+6. Agrupar los valores nulos en 'CostumerID' en 'Compras' y 'Servicios' (Not started)
+7. Sustituir los valores en blanco de la columna 'CostumerID' y que esntren en la categoria 'Compras' por el valor 'Undefined' (Not started)
+8. Sustituir los valores en blanco de la columna 'CostumerID' y que esntren en la categoria 'Servicios' por el valor 'Fee' (Not started)
+Unir los datos de ID completos al df base (not started)
+Responder a la pregunta de analisis 1. Determinar los 20 clientes que mas compraron (Not started)
+Responder a la pregunta de analisis 2. Determinar la media en el monto de compra por cliente (Not started)
+Responder a la pregunta de analisis 3. Determinar la cantidad de pedidos cancelados (Not started)

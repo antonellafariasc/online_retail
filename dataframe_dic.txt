@@ -37,7 +37,7 @@ Cantidad de pedidos canceladas por cliente (Francisco)
 =======
 Quienes son los 20 clientes que mas compran en términos de ingreso (JL)
 Cual es la compra media por cliente 
-Cantidad de pedidos canceladas por cliente 
+Cantidad de pedidos canceladas por cliente  
 >>>>>>> 2a12efa (Primer_analisis_JL)
 
 Análisis de Pedidos 

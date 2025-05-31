@@ -3,9 +3,9 @@ Nomenclatura de status: Not started, In progress, Done.
 Colocar al final las iniciales del colaborador trabajando en ella.
 
 Las tareas para esta estandarizacion se dividen en:
-0. Estandarizacion de los datatypes en las columnas 'CustomerID' y 'InvoiceDate' (Not started)
-1. Determinar los de datos faltantes en la columna 'CustomerID'(Not started)
-2. Crear dataframe incluyendo solo los datos con la columna 'CustomerID' en blanco (Not started)
+0. Estandarizacion de los datatypes en las columnas 'CustomerID' y 'InvoiceDate' (Done) JL
+1. Determinar los de datos faltantes en la columna 'CustomerID'(Done) JL
+2. Crear dataframe incluyendo solo los datos con la columna 'CustomerID' en blanco (Done) JL
 3. Segmentar el dataframe por paises (38) (Not started)
 4. Encontrar los valores nulos en la columna 'CustomerID' (Not started)
 5. Agrupar los valores de acuerdo con la columna 'Description' (Not started)

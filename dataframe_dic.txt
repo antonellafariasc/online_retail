@@ -30,9 +30,15 @@ cuales son los productos que mas devuelven?
 
 
 Comportamiento de los Cliente:
+<<<<<<< HEAD
 Quienes son los 20 clientes que mas compran en términos de ingreso (Jose)
 Cual es la compra media por cliente (Jorge)
 Cantidad de pedidos canceladas por cliente (Francisco)
+=======
+Quienes son los 20 clientes que mas compran en términos de ingreso (JL)
+Cual es la compra media por cliente 
+Cantidad de pedidos canceladas por cliente 
+>>>>>>> 2a12efa (Primer_analisis_JL)
 
 Análisis de Pedidos 
 Cuantos pedidos totales se han realizado
